@@ -1,12 +1,12 @@
 {
   "slug": "line-tower-wars",
   "title": "Line Tower Wars",
-  "description": "Standalone web Line Tower Wars, inspired by the Warcraft 3 custom map — build a maze, leak creeps to your opponent.",
+  "description": "Standalone web Line Tower Wars, inspired by the Warcraft 3 custom map \u2014 build a maze, leak creeps to your opponent.",
   "framework": "vanilla",
   "category": "tower-defense",
   "supportsMobile": false,
-  "version": "1.0.0",
-  "emoji": "🏰",
+  "version": "1.1.0",
+  "emoji": "\ud83c\udff0",
   "entry": "index.html",
   "repo": "Brynrg/line-tower-wars"
 }
